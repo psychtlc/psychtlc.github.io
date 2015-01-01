@@ -1,0 +1,51 @@
+# Tara Louise Glover
+## Client Support Ninja
+
+> [taralouiseglover@gmail.com](mailto:taralouiseglover@gmail.com)
+> (240) 498-0034
+
+------
+
+### Technical
+
+1. Palantir Gotham
+1. HTML
+1. CSS
+1. SQL
+
+
+------
+
+### Experience
+
+**LMN Solutions** *Project Manager/Embedded Analyst* __2011 to 2014__
+	Developed supply chain threat analysis tradecraft and tools to ingest, organize, and synthesize disparate commercial and government data sets into Palantir.
+	Created Syllabi, troubleshooting documentation, and Desk Side support documentation for users. 
+	Developed and conducted Palantir Gotham training for over 150 government employees and contractors. 
+	Established processes for requirements review, user and data onboarding, as well as continuous customer feedback.   
+	Provided direct analytic and mission technology support to the DHS Homeland Counterterrorism Division’s Homegrown Violent Extremism Branch.
+	Worked with senior clients and program managers to identify strategy, categorize work, and define staffing.
+	**Technical Environment** Java, XML.
+
+**BAE Systems** *Project Manager* __2009 to 2011__
+	Served as the staffing/resume lead on a $900M IDIQ proposal effort, responsible for identifying and allocating over 550 candidates over 16 Task Orders, 10 separate Labor Categories and 6 separate skill levels.
+	Fostered productive working relationships with senior leaders throughout DOD and inter-agencies, coordinating participation in multiple working groups.
+	Provided web development support to the Analysis and Production Directorate at the National Geospatial Intelligence Agency. 
+	Established a risk assessment and mitigation plan, strategic goals, and set priorities for The Office of Central and Southwest Asia in advancing IT transition efforts resulting from the impending Base Realignment and Closure.
+	**Technical Environment** PHP, JQuery, Ajax, Oracle
+
+**Booz Allen Hamilton** *Web Developer* __1999 to 2009__
+	Multi-faceted roles and responsibilities including: web development, database development, technical project management, cost and scheduling estimations, providing presentations to executive level clients.
+	Led an effort to consolidate information from disparate data sources in order to create a web-based collaborative environment for multimedia specialists to share data. 
+	Worked across the Security Installations Directorate to identify, document, and articulate process and procedures for addressing foreign visitor requests from both a security and  information technology standpoint
+	Identified and managed requirements and expectations of various stakeholders while developing and instituting the new Tasking system (N-Certs) for all internal and Congressional Taskers
+	**Technical Environment** ColdFusion, MySQL, Photoshop.
+
+
+
+------
+
+### Education
+
+**Bachelor of Arts (Psychology)** __1999__
+	St. Mary's College of Maryland
