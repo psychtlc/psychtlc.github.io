@@ -1,31 +1,36 @@
 # Tara Louise Glover
 ## Client Support Ninja
 
-> [taralouiseglover@gmail.com](mailto:taralouiseglover@gmail.com)
-> (240) 498-0034
+> [taralouiseglover@gmail.com](mailto:taralouiseglover@gmail.com) | (240) 498-0034
 
 ------
 
-### Technical
+### Clearance
 
-1. Palantir Gotham
-1. HTML
-1. CSS
-1. SQL
-
+1. Top Secret SCI with CI Poly
+Full Scope In Adjudication
 
 ------
 
-### Experience
+------
+
+### Who I Am
+
+> For over a decade, I have successfully led and delivered systems involving data sharing, collaboration, and integration of analysis tools with extensive interfaces and database back ends. I am published in the North American Journal of Psychology and the Journal of Developmental Psychobiology. I am intimately familiar with the Federal Government’s proposal process and have successfully written technical approaches that have resulted in contract wins.  I am known for providing quality empathetic technical support and system training for software solutions developed.
+------
+
+### What I've Done
 
 **LMN Solutions** *Project Manager/Embedded Analyst* __2011 to 2014__
-	Developed supply chain threat analysis tradecraft and tools to ingest, organize, and synthesize disparate commercial and government data sets into Palantir.
-	Created Syllabi, troubleshooting documentation, and Desk Side support documentation for users. 
-	Developed and conducted Palantir Gotham training for over 150 government employees and contractors. 
-	Established processes for requirements review, user and data onboarding, as well as continuous customer feedback.   
-	Provided direct analytic and mission technology support to the DHS Homeland Counterterrorism Division’s Homegrown Violent Extremism Branch.
-	Worked with senior clients and program managers to identify strategy, categorize work, and define staffing.
-	**Technical Environment** Java, XML.
+	Responsible for assisting in the development of supply chain threat analysis tradecraft and tools to ingest, organize, and synthesize disparate commercial and government data sets into Palantir
+	Developed Syllabi, Troubleshooting documentation, as well as Desk Side support documentation for users 
+	Developed and conducted Palantir Gotham training for over 150 government employees and contractors 
+	Developed processes for requirements review, user and data onboarding, as well as continuous customer feedback.  Integral in establishing relationships with users at several disparate client sites including DHS, ICE, NGA, and the NRO.  Successfully tailored the user experience for each of these users/workflows appropriately, resulting in some of the highest usage percentages across current Palantir deployments
+
+	Provided direct analytic and mission technology support to the DHS Homeland Counterterrorism Division’s Homegrown Violent Extremism Branch
+	Worked with senior clients and program managers to identify strategy, categorize work, and define staffing in order to accomplish operational business objectives
+	Assisted with the implementation and coordination of a robust examination into the motivations, antecedent behaviors, and radicalization processes of domestic terrorists
+	Received multiple accolades from internal clients as well as Europol on authoring a high profile radicalization profile on Anders Breivik
 
 **BAE Systems** *Project Manager* __2009 to 2011__
 	Served as the staffing/resume lead on a $900M IDIQ proposal effort, responsible for identifying and allocating over 550 candidates over 16 Task Orders, 10 separate Labor Categories and 6 separate skill levels.
@@ -41,11 +46,21 @@
 	Identified and managed requirements and expectations of various stakeholders while developing and instituting the new Tasking system (N-Certs) for all internal and Congressional Taskers
 	**Technical Environment** ColdFusion, MySQL, Photoshop.
 
+------
 
+### What I Can Contribute
+
+1. Palantir Gotham and link analysis savvy	
+1. Requirements management dexterity	
+1. Cross functional team leadership
+1. Proposal writing know-how		
+1. Relational database management   
+1. Customer relationship buttressing
+1. Basic web development abilities (experience with Cold Fusion, Javascript, HTML, XML, and CSS)	
 
 ------
 
-### Education
+### What I've Studied
 
-**Bachelor of Arts (Psychology)** __1999__
+**Bachelor of Arts (Psychology/Developmental Psychobiology)** __1999__
 	St. Mary's College of Maryland
