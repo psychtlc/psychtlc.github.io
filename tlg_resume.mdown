@@ -7,16 +7,14 @@
 
 ### Clearance
 
-1. Top Secret SCI with CI Poly
+> Top Secret SCI with CI Poly
 Full Scope In Adjudication
-
-------
 
 ------
 
 ### Who I Am
 
-> For over a decade, I have successfully led and delivered systems involving data sharing, collaboration, and integration of analysis tools with extensive interfaces and database back ends. I am published in the North American Journal of Psychology and the Journal of Developmental Psychobiology. I am intimately familiar with the Federal Government’s proposal process and have successfully written technical approaches that have resulted in contract wins.  I am known for providing quality empathetic technical support and system training for software solutions developed.
+For over a decade, I have successfully led and delivered systems involving data sharing, collaboration, and integration of analysis tools with extensive interfaces and database back ends. I am published in the North American Journal of Psychology and the Journal of Developmental Psychobiology. I am intimately familiar with the Federal Government’s proposal process and have successfully written technical approaches that have resulted in contract wins.  I am known for providing quality empathetic technical support and system training for software solutions developed.
 ------
 
 ### What I've Done
