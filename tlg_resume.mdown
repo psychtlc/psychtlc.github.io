@@ -14,8 +14,7 @@ Full Scope In Adjudication
 
 ### Who I Am
 
-For over a decade, I have successfully led and delivered systems involving data sharing, collaboration, and integration of analysis tools with extensive interfaces and database back ends. I am published in the North American Journal of Psychology and the Journal of Developmental Psychobiology. I am intimately familiar with the Federal Government’s proposal process and have successfully written technical approaches that have resulted in contract wins.  I am known for providing quality empathetic technical support and system training for software solutions developed.
-------
+>For over a decade, I have successfully led and delivered systems involving data sharing, collaboration, and integration of analysis tools with extensive interfaces and database back ends. I am published in the North American Journal of Psychology and the Journal of Developmental Psychobiology. I am intimately familiar with the Federal Government’s proposal process and have successfully written technical approaches that have resulted in contract wins.  I am known for providing quality empathetic technical support and system training for software solutions developed.
 
 ### What I've Done
 
@@ -24,7 +23,6 @@ For over a decade, I have successfully led and delivered systems involving data 
 	Developed Syllabi, Troubleshooting documentation, as well as Desk Side support documentation for users 
 	Developed and conducted Palantir Gotham training for over 150 government employees and contractors 
 	Developed processes for requirements review, user and data onboarding, as well as continuous customer feedback.  Integral in establishing relationships with users at several disparate client sites including DHS, ICE, NGA, and the NRO.  Successfully tailored the user experience for each of these users/workflows appropriately, resulting in some of the highest usage percentages across current Palantir deployments
-
 	Provided direct analytic and mission technology support to the DHS Homeland Counterterrorism Division’s Homegrown Violent Extremism Branch
 	Worked with senior clients and program managers to identify strategy, categorize work, and define staffing in order to accomplish operational business objectives
 	Assisted with the implementation and coordination of a robust examination into the motivations, antecedent behaviors, and radicalization processes of domestic terrorists
@@ -48,17 +46,17 @@ For over a decade, I have successfully led and delivered systems involving data 
 
 ### What I Can Contribute
 
-1. Palantir Gotham and link analysis savvy	
-1. Requirements management dexterity	
-1. Cross functional team leadership
-1. Proposal writing know-how		
-1. Relational database management   
-1. Customer relationship buttressing
-1. Basic web development abilities (experience with Cold Fusion, Javascript, HTML, XML, and CSS)	
+*  Palantir Gotham and link analysis savvy	
+*  Requirements management dexterity	
+*  Cross functional team leadership
+*  Proposal writing know-how		
+*  Relational database management   
+*  Customer relationship buttressing
+*  Basic web development abilities (experience with Cold Fusion, Javascript, HTML, XML, and CSS)	
 
 ------
 
 ### What I've Studied
 
-**Bachelor of Arts (Psychology/Developmental Psychobiology)** __1999__
-	St. Mary's College of Maryland
+Bachelor of Arts (Psychology/Developmental Psychobiology) __1999__
+**St. Mary's College of Maryland**
