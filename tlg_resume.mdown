@@ -1,5 +1,4 @@
 # Tara Louise Glover
-## Client Support Ninja
 
 > [taralouiseglover@gmail.com](mailto:taralouiseglover@gmail.com) | (240) 498-0034
 
@@ -10,7 +9,6 @@
 > Top Secret SCI with CI Poly
 Full Scope In Adjudication
 
-------
 
 ### Who I Am
 
@@ -42,8 +40,6 @@ Full Scope In Adjudication
 	Identified and managed requirements and expectations of various stakeholders while developing and instituting the new Tasking system (N-Certs) for all internal and Congressional Taskers
 	**Technical Environment** ColdFusion, MySQL, Photoshop.
 
-------
-
 ### What I Can Contribute
 
 *  Palantir Gotham and link analysis savvy	
@@ -53,8 +49,6 @@ Full Scope In Adjudication
 *  Relational database management   
 *  Customer relationship buttressing
 *  Basic web development abilities (experience with Cold Fusion, Javascript, HTML, XML, and CSS)	
-
-------
 
 ### What I've Studied
 
