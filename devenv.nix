@@ -1,4 +1,6 @@
 {pkgs, ...}: {
+  devcontainer.enable = true;
+
   packages = with pkgs; [
     git
   ];
