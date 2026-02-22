@@ -8,5 +8,5 @@
   },
   "image": "ghcr.io/cachix/devenv/devcontainer:latest",
   "overrideCommand": false,
-  "updateContentCommand": "devenv test"
+  "onCreateCommand": "direnv allow"
 }
