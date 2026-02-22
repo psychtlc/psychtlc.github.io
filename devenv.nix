@@ -1,6 +1,10 @@
 {pkgs, ...}: {
   devcontainer.enable = true;
 
+  enterShell = ''
+    bundle install
+  '';
+
   packages = with pkgs; [
     git
   ];
@@ -11,5 +15,9 @@
     bundler.enable = true;
   };
 
-  processes.dev.exec = "jekyll server --watch";
+  processes.server.exec = "jekyll server --watch";
+
+  tasks = {
+    "jekyll:build".exec = "bundle exec jekyll build";
+  };
 }
