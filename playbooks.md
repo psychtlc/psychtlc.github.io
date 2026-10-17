@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: How I Make Things Work
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'My practical guides to navigating people and projects.'
+image: assets/images/playbooks.jpeg
 nav-menu: true
 ---
 

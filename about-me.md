@@ -1,91 +1,19 @@
-<!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: page
+title: Who I Am
+description: What Makes Me Stand Out
+image: assets/images/about-me.png
+nav-menu: true
+---
 
-<head>
-	<title>Elements | Forty</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="/forty-jekyll-theme/assets/css/main.css" />
-	<!--[if lte IE 9]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie9.css" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie8.css" /><![endif]-->
-</head>
-
-
-<body>
-    <script type="text/javascript">document.body.classList.add("is-loading");</script>
-
-    <!-- Wrapper -->
-<div id="wrapper">
-
-<!-- Header -->
-<header id="header">
-	<a href="http://localhost:4000/forty-jekyll-theme/" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
-	<nav>
-		<a href="#menu">Menu</a>
-	</nav>
-</header>
-
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-        
-		    
-		
-		    
-		
-		    
-		
-		    
-		
-		    
-		        <li><a href="http://localhost:4000/forty-jekyll-theme/">Home</a></li>
-	    	
-		
-		    
-		
-		    
-		
-		
-		    
-		
-		    
-		        <li><a href="http://localhost:4000/forty-jekyll-theme/all_posts.html">All posts</a></li>
-		    
-		
-		    
-		        <li><a href="http://localhost:4000/forty-jekyll-theme/elements.html">Elements</a></li>
-		    
-		
-		    
-		        <li><a href="http://localhost:4000/forty-jekyll-theme/generic.html">Generic</a></li>
-		    
-		
-		    
-		
-		    
-		        <li><a href="http://localhost:4000/forty-jekyll-theme/landing.html">Landing</a></li>
-		    
-		
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="#" class="button special fit">Get Started</a></li>
-		<li><a href="#" class="button fit">Log In</a></li>
-	</ul>
-</nav>
- <!-- Main -->
+<!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Who I Am</h1>
 		</header>
 
 <!-- Content -->
@@ -397,24 +325,24 @@ Finally, this is a <a href="#">link</a>.</p>
 		</div>
 		<!-- Break -->
 		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked="" />
+			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
 		</div>
 		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority" />
+			<input type="radio" id="demo-priority-normal" name="demo-priority">
 			<label for="demo-priority-normal">Normal</label>
 		</div>
 		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority" />
+			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
 		</div>
 		<!-- Break -->
 		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy" />
+			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
 		</div>
 		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked="" />
+			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
 		</div>
 		<!-- Break -->
@@ -435,26 +363,26 @@ Finally, this is a <a href="#">link</a>.</p>
 <h3>Image</h3>
 
 <h4>Fit</h4>
-<span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic03.jpg" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic10.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic08.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic09.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic09.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic10.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="/forty-jekyll-theme/assets/images/pic08.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 	</div>
 </div>
 
 <h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="/forty-jekyll-theme/assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="/forty-jekyll-theme/assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 
 <!-- Box -->
 <h3>Box</h3>
@@ -482,138 +410,3 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </section>
 
 </div>
- <!-- Contact -->
-<section id="contact">
-	<div class="inner">
-		<section>
-			<form action="https://formspree.io/youremailaddress@gmail.com" method="POST">
-				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
-				</ul>
-			</form>
-		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="mailto:youremailaddress@gmail.com">youremailaddress@gmail.com</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<a href="tel:(716) 555-5555">(716) 555-5555</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-					
-					    1234 Somewhere Road<br />
-					
-					
-					    Nashville,
-					
-					
-					    TN 
-					
-					
-					    55555<br />
-					
-					
-					    United States of America
-					
-					</span>
-				</div>
-			</section>
-		</section>
-	</div>
-</section>
-
-<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				
-					
-						<li>
-							<a href="https://github.com/andrewbanchich" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-								<span class="label">GitHub</span>
-							</a>
-						</li>
-					
-				
-					
-				
-					
-						<li>
-							<a href="https://plus.google.com/u/0/+AndrewBanchich" class="icon alt fa-google-plus" target="_blank" rel="noopener noreferrer" aria-label="Google-Plus">
-								<span class="label">Google-Plus</span>
-							</a>
-						</li>
-					
-				
-					
-				
-					
-						<li>
-							<a href="https://www.linkedin.com/in/andrew-banchich-a4ba1195" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-								<span class="label">LinkedIn</span>
-							</a>
-						</li>
-					
-				
-					
-						<li>
-							<a href="https://twitter.com/andrewbanchich" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-								<span class="label">Twitter</span>
-							</a>
-						</li>
-					
-				
-					
-				
-					
-				
-			</ul>
-			<ul class="copyright">
-				<li>&copy; Forty by HTML5 UP</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-
-			</ul>
-		</div>
-	</footer>
-
-</div>
-
-<!-- Scripts -->
-	<script src="http://localhost:4000/forty-jekyll-theme/assets/js/jquery.min.js"></script>
-	<script src="http://localhost:4000/forty-jekyll-theme/assets/js/jquery.scrolly.min.js"></script>
-	<script src="http://localhost:4000/forty-jekyll-theme/assets/js/jquery.scrollex.min.js"></script>
-	<script src="http://localhost:4000/forty-jekyll-theme/assets/js/skel.min.js"></script>
-	<script src="http://localhost:4000/forty-jekyll-theme/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="http://localhost:4000/forty-jekyll-theme/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="http://localhost:4000/forty-jekyll-theme/assets/js/main.js"></script>
-
-
-</body>
-
-</html>

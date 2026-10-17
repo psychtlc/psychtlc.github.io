@@ -1,16 +1,16 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Playbook Library
+subtitle: by Tara L. Glover
+email: taralouiseglover@gmail.com
+description: Turning enterprise IT chaos into manageable, human-first outcomes. Proven playbooks for legacy migrations, platform delivery, and team empowerment.   
 url: https://psychtlc.github.io
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Tara Glover
+street_address: 
+city: Darnestown
+state: MD
+zip_code: 20874
 country: United States of America
-phone: (716) 555-5555
+phone: (240) 498-0034
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,12 +21,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/psychtlc
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://instagram.com/blendedshire
+  LinkedIn: https://www.linkedin.com/in/taralouiseglover
+  Twitter: 
   Facebook:
   Slack:
 
