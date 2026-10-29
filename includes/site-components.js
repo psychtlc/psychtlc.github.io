@@ -62,7 +62,6 @@
           <div class="footer-column">
             <h3>Contact</h3>
             <a href="mailto:taralouiseglover@gmail.com">taralouiseglover@gmail.com</a>
-            <a href="tel:240-498-0034">240-498-0034</a>
             <a href="https://calendly.com/taralouiseglover" target="_blank" rel="noreferrer">Book a conversation</a>
           </div>
           <p class="footer-note">© 2026 Tara Glover</p>
